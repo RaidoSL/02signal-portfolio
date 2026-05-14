@@ -211,10 +211,6 @@ week5-data-decisions/
 
 ---
 
-## Sild N6-sse
-
-N5 lõpetas üksiku workflow'ga: andmed → mälu → raport.
-N6 ühendab **kõik nädalad kokku** üheks demokõlblikuks tervikuks:
 
 - N3 FAQ chatbot + N4 sisu-workflow + N5 andmeraport = üks **integreeritud süsteem**
 - Esitlus juhtkonnale + tagasiside-ring
